@@ -2,3 +2,5 @@ datasets
 pandas
 numpy
 huggingface_hub
+huggingface_hub[hf_xet]
+hf_transfer
