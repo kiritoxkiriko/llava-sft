@@ -42,7 +42,8 @@ fp16: true
 
 ### other
 seed: 666
-flash_attn: auto
+flash_attn: fa2
+enable_liger_kernel: true
 gradient_checkpointing: true
 #use_unsloth: true
 
