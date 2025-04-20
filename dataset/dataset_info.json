@@ -1,0 +1,10 @@
+{
+  "theblackcat102/llava-instruct-mix": {
+    "file_name": "theblackcat102/llava-instruct-mix/data",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "image"
+    }
+  }
+}
